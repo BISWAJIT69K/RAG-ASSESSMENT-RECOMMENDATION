@@ -430,10 +430,7 @@ This project is for educational and demonstration purposes.
 
 ## Author
 
-**Anshaj Shukla**
-- GitHub: [@anshajshukla](https://github.com/anshajshukla)
+**Biswajit Kumar Pradhan**
+- GitHub: [@BISWAJIT69K](https://github.com/BISWAJIT69k)
 
 ---
-
-**Last Updated**: November 11, 2025  
-**Version**: 1.0 (Production Ready)
